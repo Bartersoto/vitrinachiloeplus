@@ -13,7 +13,7 @@ h1, h2 {
 }
 
 form {
-  background-color: #ffffff;
+  background-color: #fff;
   padding: 20px;
   border-radius: 10px;
   border: 1px solid #e0e0e0;
@@ -34,7 +34,7 @@ input, textarea {
 button {
   padding: 12px 20px;
   font-size: 16px;
-  background-color: #2e7d32; /* verde */
+  background-color: #2e7d32;
   color: white;
   border: none;
   border-radius: 6px;
